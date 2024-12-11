@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#00c290</color>
+    <color name="transparent">#00000000</color>
+    <color name="textHint">#7e7c7c</color>
+    <color name="textGray500">#8c8c8c</color>
+    <color name="textGray900">#262626</color>
+    <color name="switch_thumb_checked">#4CAF50</color>
+    <color name="switch_thumb_unchecked">#BDBDBD</color>
+    <color name="switch_track_checked">#A5D6A7</color>
+    <color name="switch_track_unchecked">#E0E0E0</color>
+
+
+</resources>

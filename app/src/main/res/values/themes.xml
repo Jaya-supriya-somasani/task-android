@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Task" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/switch_thumb_checked</item>
+    </style>
+
+    <style name="Theme.Task" parent="Base.Theme.Task" />
+
+    <style name="LayoutTextInputPlaceholder" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="CustomSwitchStyle" parent="Widget.AppCompat.CompoundButton.Switch">
+        <item name="colorControlActivated">@color/switch_thumb_checked</item>
+        <item name="colorSwitchThumbNormal">@color/switch_thumb_unchecked</item>
+        <item name="colorControlHighlight">@color/switch_thumb_checked</item>
+    </style>
+
+</resources>
